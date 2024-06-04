@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rithi/Desktop/DS_PRO/Own%20Pro/ML%20projects/Gemstone_price_analysis/mlruns/0/41c0eef8111c461598015317aca87a88/artifacts
+end_time: 1717503380865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41c0eef8111c461598015317aca87a88
+run_name: capable-finch-302
+run_uuid: 41c0eef8111c461598015317aca87a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717503377865
+status: 3
+tags: []
+user_id: rithi
